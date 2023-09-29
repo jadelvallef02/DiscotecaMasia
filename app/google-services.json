@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379068721013",
+    "project_id": "discotecamasia-dd298",
+    "storage_bucket": "discotecamasia-dd298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379068721013:android:0459ae9e83ad6312d9553c",
+        "android_client_info": {
+          "package_name": "com.example.discotecamasia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADKsZVt9-QSqj5X-u5STtaxfOt0vHoecg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DiscotecaMasia</string>
+    <string name="request_id_token">428574997300-nqosqkubuev2avoc4nmbhm45a5mt3vv2.apps.googleusercontent.com</string>
+    <string name="prefs_file">com.example.discotecamasia.PREFERENCE_FILE_KEY</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDdH-Efp-7lVvxoSQ_CZ8gKCHeRGkzqedA</string>
 </resources>
